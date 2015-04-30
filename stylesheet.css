@@ -2,7 +2,7 @@
         Version 3.2 Custom
         Edited by Flexxkii
         Stylesheet by Cryptonaut
-        Last modified: 16 APRIL 2015
+        Last modified: 30 APRIL 2015
         Details: This is a reddit css template made by /u/Cryptonaut. 
         Find out more on /r/Naut.
 
@@ -169,8 +169,8 @@ a.random.choice {
     background-repeat: no-repeat;
     background-size: 50px 50px;
     position: absolute;
-    top: -125px;
-    left: 25px;
+    top: -80px;
+    left: 125px;
     transition:all .25s ease
 }
 
@@ -190,8 +190,8 @@ a.random.choice {
     background-size:50%!important;
     display:inline-block;
     height:91px;
-    margin-left:125px;
-    margin-top:-120px;
+    margin-left:225px;
+    margin-top:-75px;
     position:absolute;
     text-indent:-999em;
     width:1066px
@@ -210,7 +210,7 @@ a.random.choice {
     animation-name:fadein;
     left:16px;
     position:absolute;
-    top:278px
+    top:136px
 }
 
 #header .tabmenu {
@@ -258,7 +258,7 @@ a.random.choice {
     background-color:#fff;
     border-radius:2px;
     box-shadow:0 1px 5px rgba(0,0,0,0.16);
-    margin:446px 16px 0 0;
+    margin:304px 16px 0 0;
     padding:6px 16px
 }
 
@@ -529,7 +529,7 @@ a.random.choice {
     position:absolute;
     right:16px;
     text-align:left;
-    top:394px;
+    top:252px;
     transition:all .25s ease;
     width:300px
 }
@@ -903,7 +903,7 @@ div.titlebox span.number:after {
 }
 
 .content {
-    margin:342px 16px 0;
+    margin:200px 16px 0;
     padding:0
 }
 
@@ -2297,7 +2297,7 @@ button.save:active {
 }
 
 .comments-page .side {
-    margin-top:558px
+    margin-top:416px
 }
 
 .comments-page .side .linkinfo {
@@ -2305,7 +2305,7 @@ button.save:active {
     border:none;
     border-radius:2px;
     box-shadow:0 1px 5px rgba(0,0,0,0.16);
-    margin-top:246px;
+    margin-top:104px;
     padding:16px;
     position:absolute;
     right:16px;
@@ -2500,7 +2500,7 @@ button.save:active {
 }
 
 .search-page .side {
-    margin-top:394px
+    margin-top:252px
 }
 
 .search-page .searchfacets {
@@ -3029,11 +3029,11 @@ html.res-commentBoxes .comment {
 }
 
 .res .comments-page .side {
-    margin-top:572px
+    margin-top:430px
 }
 
 #search,.search-page .morelink {
-    top:342px
+    top:200px
 }
 
 .morelink,.titlebox .fancy-toggle-button .add,.morelink:after,.content .infobar,.submit-page #newlink.submit.content .tabmenu.formtab .selected a,.submit-page .infobar,.submit-page #newlink.submit.content .btn,.drop-choices a.choice:hover,.linkflairlabel,.fancy-toggle-button .remove:active
